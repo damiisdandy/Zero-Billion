@@ -1,6 +1,9 @@
-try:
-    from core.methodword import *
+from core.methodword import *
 
+# This Program Was Written By Damiisdandy
+# github.com/damiisdandy
+
+try:
     print(Colors.CYAN + Colors.BOLD + "TYPE IN ANY INTEGER RANGING FROM 1 - 1,000,000,000 , IT WILL BE CONVERTED TO "
                                       "WORDS"
           + Colors.ENDC)
